@@ -13,4 +13,4 @@ This project contain some basic functionality like:
 
 # Buying Product
 
-Buying product was not fully implement in this project.
+Buying product was not fully implemented in this project.
